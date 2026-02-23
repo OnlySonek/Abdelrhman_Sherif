@@ -1,43 +1,62 @@
 <div align="center">
 
-# 👋 Hi there, I'm Abdelrhman Sherif
-### 🚀 Front-End Web Developer | UI/UX Enthusiast
+# ⚡  `Software Alchemist`  ⚡
+### 🌐 Crafting Digital Experiences with Code & Soul
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20World&fontSize=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Abdelrhman%20Sherif&fontSize=70&animation=fadeIn&desc=Front-End%20Engineer%20|%20UI%20Enthusiast&descAlignY=75&descAlign=50" width="100%" />
 
 ---
 
-### 👨‍💻 About Me
-I'm a passionate **Front-End Developer** focused on building responsive, 
-user-friendly web interfaces using modern web technologies.
+### 🚀 Quick Glance
+| 🖋️ Learning | 🔭 Working on | 💬 Ask me about | ⚡ Fun Fact |
+| :--- | :--- | :--- | :--- |
+| Advanced React Patterns | E-commerce Dashboard | UI/UX & JavaScript | I speak fluent Coffee ☕ |
 
-📫 **Reach me at:** [abdelrhmansherif140@gmail.com](mailto:abdelrhmansherif140@gmail.com)
+---
+
+### 🛠️ The Forge (Tech Stack)
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,redux,figma,git,vscode,npm,postman" />
+  </a>
+</p>
+
+---
+
+### 📊 Performance Metrics
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true" alt="Langs" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME_HERE&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 ---
 
-### 🛠 Tech Stack
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **Frameworks** |  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
-| **Design & Tools** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+### 🌌 Activity Constellation
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME_HERE&theme=tokyonight&bg_color=1a1b27&hide_border=true" width="100%" />
 
 ---
 
-### 📊 GitHub Stats
+### 🤝 Let's Warp Through Space
 <div align="center">
 
-![Abdelrhman's Stats](https://github-readme-stats.vercel.app/api?username=seifelsayedofficial&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seifelsayedofficial&layout=compact&theme=radical&hide_border=true)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrhman-sherif-5a760b37b)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrhmansherif140@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio-link.com)
 
 </div>
 
 ---
 
-### 🤝 Connect with me
-<div align="center">
-<a href="https://linkedin.com/in/seif-elsayed-1b528b396" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:abdelrhmansherif140@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://raw.githubusercontent.com/mhmadeye/mhmadeye/master/assets/line-neon.gif" width="100%">
 </div>
