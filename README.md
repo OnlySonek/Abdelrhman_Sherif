@@ -80,5 +80,4 @@ I'm a passionate **Front-End Developer** and 4th-year MIS student, focused on bu
 </div>
 
 <div align="center">
-<sub>Built with ❤️ by Abdelrhman Sherif</sub>
 </div>
