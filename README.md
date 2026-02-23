@@ -1,7 +1,6 @@
 <div align="center">
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20World&fontSize=50" width="100%](https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" />
+<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 ---
 # 👋 Hi there, I'm Abdelrhman Sherif
